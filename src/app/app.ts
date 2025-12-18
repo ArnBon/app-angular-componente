@@ -6,6 +6,7 @@ import { InterpolacionComponent } from './interpolacion-component/interpolacion-
 import { PadreComponent } from './padre-component/padre-component';
 import { MostrarMensajeComponent } from './mostrar-mensaje-component/mostrar-mensaje-component';
 import { ReplicadorComponent } from './replicador-component/replicador-component';
+import { SaludarComponent } from './saludar-component/saludar-component';
 
 @Component({
   selector: 'app-root',
@@ -16,7 +17,8 @@ import { ReplicadorComponent } from './replicador-component/replicador-component
             InterpolacionComponent,
             PadreComponent,
             MostrarMensajeComponent,
-            ReplicadorComponent
+            ReplicadorComponent,
+            SaludarComponent
           ],
   templateUrl: './app.html',
   styleUrl: './app.css'
