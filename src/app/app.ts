@@ -4,6 +4,7 @@ import { NuevoComponente } from './nuevo-componente/nuevo-componente';
 import { ComponenteInline } from './componente-inline/componente-inline';
 import { InterpolacionComponent } from './interpolacion-component/interpolacion-component';
 import { PadreComponent } from './padre-component/padre-component';
+import { MostrarMensajeComponent } from './mostrar-mensaje-component/mostrar-mensaje-component';
 
 @Component({
   selector: 'app-root',
@@ -12,11 +13,13 @@ import { PadreComponent } from './padre-component/padre-component';
             NuevoComponente,
             ComponenteInline,
             InterpolacionComponent,
-            PadreComponent
+            PadreComponent,
+            MostrarMensajeComponent
           ],
   templateUrl: './app.html',
   styleUrl: './app.css'
 })
 export class App {
   protected readonly title = signal('app-angular-componente');
+  protected readonly title2 = signal('Universidad Angular');
 }
