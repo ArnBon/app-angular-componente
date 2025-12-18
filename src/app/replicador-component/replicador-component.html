@@ -1,0 +1,18 @@
+<div class="d-flex justify-content-center">
+    <div class="w-50">
+        <div class="mb-3">           
+            <input class="form-control form-control-lg"
+            id="inputTexto"
+             type="text" (input)="actualzarTexto($event)"
+             placeholder="Escribe algo:"
+             aria-label=".form-control-lg example">
+        </div>
+        <div class="mb-3">            
+            <input class="form-control form-control-lg"
+            id="replicaTexto" 
+            type="text" [value]="texto" readonly 
+            placeholder="Texto replicado:" 
+            aria-label=".form-control-lg example">
+        </div>
+    </div>
+</div>
