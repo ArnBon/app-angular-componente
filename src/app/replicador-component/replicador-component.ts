@@ -9,7 +9,11 @@ import { Component } from '@angular/core';
 export class ReplicadorComponent {
 
   texto: string = '';
+private titulo2 = 'Property Binding';
 
+   getmostrarTitulo() {
+    return this.titulo2;
+  }
 
   actualzarTexto(event: Event): void{
     const elemntoInput = event.target as HTMLInputElement;

@@ -7,7 +7,12 @@ import { Component } from '@angular/core';
   styleUrl: './mostrar-mensaje-component.css',
 })
 export class MostrarMensajeComponent {
+  private titulo = 'Event Binding';
   mensaje: string = '';
+
+    get mostrarTitulo(){
+    return this.titulo;    
+  } 
 
   mostrarmensaje(): void {
     this.mensaje = 'Hola has hecho click en el boton!';

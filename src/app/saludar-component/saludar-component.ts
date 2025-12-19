@@ -10,18 +10,13 @@ import { FormsModule } from '@angular/forms';
 export class SaludarComponent {
   saludo = 'Saludo inicial';
 
-  private titulo = 'dsdsdsds';
-  private titulo2 = 'Property Binding';
+  private titulo = 'Event Binding';  
   private titulo3 = 'Two Way Binding';
   
 
   get mostrarTitulo(){
     return this.titulo;    
-  }
-
-  getmostrarTitulo() {
-    return this.titulo2;
-  }
+  } 
 
   mostrarTitulex(){
     return this.titulo3;
