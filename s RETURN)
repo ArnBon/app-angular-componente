@@ -1,0 +1,41 @@
+[33mcommit e3c010e92467a9a0f2665a2d68517fc3c519ed4a[m[33m ([m[1;36mHEAD -> [m[1;32mdev2[m[33m, [m[1;31morigin/dev2[m[33m)[m
+Author: Arnaldo Jose Bonillo Berrios <NM41126@banvenez.corp>
+Date:   Fri Dec 19 10:03:00 2025 -0400
+
+    arreglo titulo del ejemplo clases 23 24 25
+
+[33mcommit 36c2fad5c37e52ce8568963d2355c5ce50cf060c[m
+Author: Arnaldo Jose Bonillo Berrios <NM41126@banvenez.corp>
+Date:   Thu Dec 18 15:00:00 2025 -0400
+
+    fin clase 25 two way binding en Angular
+
+[33mcommit 50beeb249a03328a4e66d04e2250c100d078f410[m
+Author: Arnaldo Jose Bonillo Berrios <NM41126@banvenez.corp>
+Date:   Thu Dec 18 14:21:46 2025 -0400
+
+    fin clase 24 property binding en Angular
+
+[33mcommit e25a9f82eb772e9f4da9778a57b20a1a44948fad[m
+Author: Arnaldo Jose Bonillo Berrios <NM41126@banvenez.corp>
+Date:   Thu Dec 18 13:49:18 2025 -0400
+
+    fin clase 23 Event Binding
+
+[33mcommit 2f8e29de076cbe9ec4632fc10acf5266af4909ef[m
+Author: Arnaldo Jose Bonillo Berrios <NM41126@banvenez.corp>
+Date:   Thu Dec 18 13:20:16 2025 -0400
+
+    fin clase 22 encapsulamiento de propiedades de angular
+
+[33mcommit 4f8e510021f580be4be80ba178097bd4c4769073[m[33m ([m[1;31morigin/dev[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mdev[m[33m)[m
+Author: Arnaldo Jose Bonillo Berrios <NM41126@banvenez.corp>
+Date:   Wed Dec 17 13:41:58 2025 -0400
+
+    first commit
+
+[33mcommit 12497c1cfa624189117ff9331f6432d2d28a61ad[m
+Author: Arnaldo Jose Bonillo Berrios <NM41126@banvenez.corp>
+Date:   Tue Dec 16 15:07:38 2025 -0400
+
+    initial commit
